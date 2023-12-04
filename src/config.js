@@ -1,26 +1,14 @@
 module.exports = {
-  email: 'sunamidasgupta@gmail.com',
+  email: 'alessandrosisniegas@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/sunami09',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/sunami09/',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/Sunami021',
+      url: 'https://github.com/alessandrosisniegas',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/sunami-dasgupta-899a981ba/',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/sunami09-the-bold',
+      url: 'https://www.linkedin.com/in/alessandrosisniegas/',
     },
   ],
 
