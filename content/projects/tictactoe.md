@@ -1,15 +1,13 @@
 ---
 date: '2020-03-01'
-title: 'Tic Tac Toe'
-github: 'https://github.com/sunami09/Tic-Tac-Toe'
-external: 'https://tictactoe-sunami.netlify.app/'
+title: 'CSCI 211 - Programming and Algorithms II'
+github: ''
+external: 'https://drive.google.com/file/d/1KCz7tlZhGrKCZPyG5bf1GHFmfpE_p4a5/view?usp=sharing'
 tech:
-  - HTML5
-  - CSS3
-  - JavaScript
+  - Final Grade - A
 
-company: 'Informatics Club'
+company: 'Self-Project'
 showInProjects: true
 ---
 
-Tic-tac-toe, noughts and crosses, or Xs and Os is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
+Letter of Recommendation from California State University Chico, Computer Science Professor

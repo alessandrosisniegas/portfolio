@@ -1,9 +1,9 @@
 ---
-date: '2'
-title: 'Spottr: Navigate with ease'
+date: '1'
+title: 'Stanford University Hackathon 2023: Spottr'
 cover: './park.png'
-github: 'https://github.com/sunami09/parkingprocessing'
-external: 'https://github.com/sunami09/parkingprocessing'
+github: ''
+external: 'https://github.com/alessandrosisniegas/parkingprocessing'
 tech:
   - Python
   - Image Processing
@@ -11,4 +11,4 @@ tech:
 ---
 
 
-"Spottr" is a project I developed, aimed at revolutionizing the parking experience. It's a Python-based application that uses video footage of parking lots to intelligently detect and indicate available parking spots. The system marks unoccupied spaces in green and occupied ones in red, making it easy for users to identify where they can park. I employed OpenCV for processing the video footage and applied various image processing techniques like grayscale conversion, Gaussian blur, and adaptive thresholding to ensure accurate detection of parking spots. Designed with a focus on reducing the time spent searching for parking and minimizing carbon emissions, "Spottr" also boasts a user-friendly interface, crafted using the tkinter library, to enhance the overall user experience. This project was a significant part of my participation in the Stanford Hackathon, where it was recognized as the runner-up.
+During the two-day Stanford University hackathon, I developed Spottr, a Python app that transforms the way we find parking by utilizing image processing techniques. Focused on sustainability and health, this project addresses the environmental impact of prolonged parking searches. I incorporated adaptive thresholding, Gaussian blur, and dilation in my design to accurately detect real-time parking spot occupancy. By optimizing the image processing pipeline with OpenCV, I significantly enhanced Spottr's speed and usability. My efforts were not only aimed at simplifying parking but also at contributing to a greener, healthier, more efficient urban environment.

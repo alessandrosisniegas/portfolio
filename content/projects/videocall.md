@@ -1,16 +1,13 @@
 ---
 date: '2022-04-01'
-title: 'Video Conference App'
-github: 'https://github.com/sunami09/The-Muggle-Room-Production'
-external: 'https://muggleroom.netlify.app/create'
+title: 'CSCI 311 - Data Structures and Algorithms'
+github: ''
+external: 'https://drive.google.com/file/d/1tBimjvVrUh0MvCTRafxVd4CcXYnKn1_d/view?usp=sharing'
 tech:
-  - NodeJS
-  - TypeScript
-  - Objective-C
-  - Go
+  - Final Grade - A
 
-company: 'GlobalShala Private Limited'
+company: 'Self-Project'
 showInProjects: true
 ---
 
-A video calling app that offers seamless communication using the latest technologies like TypeScript, Node, Objective C, and more. Enjoy high-quality video and audio calls with friends, family, or coworkers.
+Letter of Recommendation from California State University Chico, Computer Science Professor

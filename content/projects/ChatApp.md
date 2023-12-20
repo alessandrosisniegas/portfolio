@@ -1,7 +1,7 @@
 ---
 date: '2022-03-27'
 title: 'Chat Application (Muggle Space)'
-github: 'https://github.com/sunami09/MuggleSpace'
+github: ''
 external: 'https://mugglespace.netlify.app/'
 tech:
   - React

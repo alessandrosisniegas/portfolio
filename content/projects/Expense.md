@@ -1,14 +1,11 @@
 ---
 date: '2022-01-01'
-title: 'Expense Tracker'
-github: 'https://github.com/sunami09/expence-tracker'
-external: 'https://expensetrackersunami.netlify.app/'
+title: 'MATH 121 - Calculus II'
+github: ''
+external: 'https://drive.google.com/file/d/1-A9qmh-99yJEwDOn9znIiMrM74-SUDLi/view?usp=sharing'
 
 tech:
-  - HTML/CSS
-  - JavaScript
-  - React
-  - Styled Components
+  - Final Grade - A
 ---
 
-The expense tracker web application built on React is a single-page application that does not persist data upon refreshing the page. Instead, it utilizes React's state management to store data temporarily within the application's memory. Each time the page is refreshed, the data is reset and the user is presented with a fresh, blank balance sheet.
+Letter of Recommendation from California State University Chico, Mathematics Professor

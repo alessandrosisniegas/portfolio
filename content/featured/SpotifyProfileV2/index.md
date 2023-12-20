@@ -1,15 +1,15 @@
 ---
-date: '3'
-title: 'Expense Tracker'
-cover: './expense.PNG'
-github: 'https://github.com/sunami09/expence-tracker'
-external: 'https://expensetrackersunami.netlify.app/'
+date: '2'
+title: 'Undergraduate Research: Enhancing Mobile Augmented Reality Using ORB-SLAM Implementations'
+cover: './ORB.png'
+github: ''
+external: 'https://drive.google.com/file/d/1sNWM0ZfJXiCIEvh3i_0pwsMYuxQ7jYyk/view?usp=sharing'
 
 tech:
-  - HTML/CSS
-  - JavaScript
-  - React
-  - Styled Components
+  - Feature Extraction and Matching
+  - Initialization and Local Mapping
+  - Loop Closure and Global Optimization
+  - Relocalization and Bundle Adjustment
 ---
 
-The expense tracker web application built on React is a single-page application that does not persist data upon refreshing the page. Instead, it utilizes React's state management to store data temporarily within the application's memory. Each time the page is refreshed, the data is reset and the user is presented with a fresh, blank balance sheet.
+Mobile devices, integral in our digital era, heavily rely on camera functionality for a wide range of applications, from social media to augmented reality. Yet, a key challenge is enabling these typically single-camera devices to comprehend and interact with their environment in real time. Monocular Visual Simultaneous Localization and Mapping (SLAM) is a critical solution, overcoming the depth perception and scale ambiguity issues inherent in monocular vision, unlike the easier depth inference in binocular vision. In my research, I examine the ORB-SLAM approach, showcasing its effectiveness for Monocular Visual SLAM in enhancing mobile camera applications, essential for applications like augmented reality and navigation in environments around us.

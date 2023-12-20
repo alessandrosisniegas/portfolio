@@ -1,15 +1,13 @@
 ---
 date: '2019-12-01'
-title: 'AI Desktop Assistant'
-github: 'https://github.com/sunami09/AI_New_Age'
-external: ''
+title: 'CSCI 111 - Programming and Algorithms I'
+github: ''
+external: 'https://drive.google.com/file/d/1bx0LcYOTULn3taTCy7oo9YahGCKFJbVT/view?usp=sharing'
 tech:
-  - Python
-  - pyttsx3
-  - API
-  - wolframalpha
+  - Final Grade - A
 
-company: 'Informatics Club'
+company: 'Self-Project'
 showInProjects: true
 ---
-This is a Desktop assistant like google ssistant written in python for Windows systems. They can do many task including playing movies and songs, downloading movies and searching files in the system. It has added features like login and registration of a user. There are currently two AI, user can choose anyone of them.
+
+Letter of Recommendation from California State University Chico, Computer Science Professor

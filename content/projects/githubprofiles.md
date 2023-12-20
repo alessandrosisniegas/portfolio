@@ -1,7 +1,7 @@
 ---
 date: '2022-08-01'
 title: 'Github Profile Search'
-github: 'https://github.com/sunami09/GitHub-Profiles'
+github: ''
 external: 'https://gitmuggles.netlify.app/'
 tech:
   - HTML/CSS
@@ -11,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-Custom WordPress theme and e-commerce site built with Timber and WooCommerce for blistabloc, a start-up selling the only reactive shoe insert that prevents blisters from forming.
+A simple web app that allows you to search for GitHub profiles and view their details such as profile picture, user name, bio, and location.

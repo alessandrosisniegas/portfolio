@@ -2,7 +2,7 @@
 date: '2021-09-19'
 title: 'Movie Streaming App'
 
-github: 'https://github.com/sunami09/Netflix-Production'
+github: ''
 external: 'https://netflix-clone-v1-sunami.netlify.app/'
 tech:
   - TypeScript

@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['C++/C', 'Kotlin', 'Python', 'JavaScript', 'Node.js', 'MongoDB', 'Express.js', 'Mongoose', 'jQuery', 'NoSQL'];
+  const skills = ['C++', 'Kotlin', 'Python', 'HTML/CSS/JavaScript', 'MERN Stack', 'Prometheus', 'Grafana', 'Kubernetes', 'Docker', 'Google Cloud'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,10 +136,16 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-Hey there! I'm Ale, a tech enthusiast and computer science aficionado from <a href="https://www.csuchico.edu/">California State University - Chico</a>. When I'm not diving deep into code or sipping on my favorite brew, I'm passionately crafting solutions using <b>C/C++, Python, and JavaScript</b>, and playing around with cool frameworks like <b>React, Node, and MongoDB</b>. 🚀
+Hi! The first language I've programmed in and my University's primary language is <b>C++</b>, making it my strongest choice of language. I coded all my initial projects in <b>C++</b> and is the language that I use to teach students when being a <a href ="https://www.csuchico.edu/csci/">Teacher & Lab Assistant</a> for <b>Data Structure & Algorithms</b> courses at my University.
 </p>
 <p>
-My coding adventures have taken me to some exciting places: from clinching the <a href ="https://www.codechef.com/rankings/APRIL21B?itemsPerPage=100&order=asc&page=1&search=sunami09&sortBy=rank">9th rank in CodeChef</a> to making a mark at <a href ="https://drive.google.com/file/d/1-HCcVl6m3zBNi3E8qXgwkY961rLdrieT/view?usp=sharing">Google Codejam</a>. Oh, and did I mention the time I rocked the sustainability track at the <a href="">Stanford University Hackathon</a>? Yep, brought home the 'Runner Up' title! 🌱 But it's not just about the trophies. Whether I'm breathing life into a <a href="https://github.com/sunami09/AI_New_Age">desktop assistant(AI)</a> or binge-watching on a <a href="https://netflix-clone-v1-sunami.netlify.app/login">movie streaming app</a> that I built, I believe in making tech both innovative and fun. So, ready to join me on this exhilarating tech journey? Let's go! 🌟
+I have both <b>back-end</b> and <b>front-end</b> experience (specifically in <b>Data Management</b>, <b>Information Retrieval</b>, and <b>Web Apps</b>) from my <a href ="/#jobs">Software Engineering internships.</a>
+</p>
+<p>
+I've recently developed a high interest towards <b>Augmented Reality</b>, specifically in <b>Android apps</b>. This led me to do my <a href ="https://drive.google.com/file/d/1sNWM0ZfJXiCIEvh3i_0pwsMYuxQ7jYyk/view?usp=sharing">Undergraduate Research</a> focused on <b>Monocular Visual Simultaneous Localization and Mapping</b>, where I dive deep into algorithms for real-time <b>Feature Extraction</b> and <b>Mapping</b>, significantly advancing <b>Depth Perception</b>, <b>Loop Closure</b>, and <b>Relocolization</b> in mobile monocular camera apps. I aim to further apply what I've researched by continuing to develop an android AR object placement app using <b>Kotlin</b>, <b>C++</b>, <b>Jetpack Compose</b>, <b>Unity</b>, and <b>Android Studio</b>
+</p>
+<p>
+<b>Cloud Computing</b> and <b>Networks</b> has also been very a high interest in mine. I've been working with <b>Google Cloud</b> a lot, especially during my databases courses at my University, as well as developing Network Monitoring projects using <b>Prometheus & Grafana</b> to collect and query metrics on end-to-end dataflows, and using <b>Kubernetes & Docker</b> for container orchestration.
 </p>
 
             {/* <p>
