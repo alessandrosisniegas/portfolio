@@ -1,5 +1,5 @@
 ---
-date: '2022-08-01'
+date: '2026-08-01'
 title: 'Github Profile Search'
 github: ''
 external: 'https://gitmuggles.netlify.app/'

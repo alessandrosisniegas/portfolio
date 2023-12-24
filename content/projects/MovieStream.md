@@ -1,18 +1,11 @@
 ---
-date: '2021-09-19'
-title: 'Movie Streaming App'
-
+date: '2023-01-01'
+title: 'MATH 121 - Calculus II'
 github: ''
-external: 'https://netflix-clone-v1-sunami.netlify.app/'
-tech:
-  - TypeScript
-  - Tailwind CSS
-  - JavaScript
-  - REST API
-  - TMDB
+external: 'https://drive.google.com/file/d/1-A9qmh-99yJEwDOn9znIiMrM74-SUDLi/view?usp=sharing'
 
-company: 'Multiprocessing Muggles'
-showInProjects: false
+tech:
+  - Final Grade - A
 ---
 
-The app features a modern and user-friendly interface that showcases trailers in a modal UI. The app utilizes Tailwind CSS for styling, which provides a wide range of customization options and makes it easy to implement responsive design.
+Letter of Recommendation from California State University Chico, Mathematics Professor

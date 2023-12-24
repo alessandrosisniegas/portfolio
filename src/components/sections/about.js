@@ -136,13 +136,13 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-Hi! The first language I've programmed in and my University's primary language is <b>C++</b>, making it my strongest choice of language. I coded all my initial projects in <b>C++</b> and is the language that I use to teach students when being a <a href ="https://www.csuchico.edu/csci/">Teacher & Lab Assistant</a> for <b>Data Structure & Algorithms</b> courses at my University.
+Hi! The first language I've programmed in and my University's primary language is <b>C++</b>, making it my strongest choice of language. I coded all my initial projects in <b>C++</b> and is the language that I use to teach students when being a <a href ="https://www.csuchico.edu/csci/" target="_blank">Teacher & Lab Assistant</a> for <b>Data Structure & Algorithms</b> courses at my University.
 </p>
 <p>
 I have both <b>back-end</b> and <b>front-end</b> experience (specifically in <b>Data Management</b>, <b>Information Retrieval</b>, <b>Web Applications</b>, and <b>Cloud Computing</b> including work with the <b>Salesforce Cloud</b>) from my <a href ="/#jobs">Software Engineering internships.</a>
 </p>
 <p>
-I've recently developed a high interest towards <b>Augmented Reality</b>, specifically in <b>Android apps</b>. This led me to do my <a href ="https://drive.google.com/file/d/1sNWM0ZfJXiCIEvh3i_0pwsMYuxQ7jYyk/view?usp=sharing">Undergraduate Research</a> focused on <b>Monocular Visual Simultaneous Localization and Mapping</b>, where I dive deep into algorithms for real-time <b>Feature Extraction</b> and <b>Mapping</b>, significantly advancing <b>Depth Perception</b>, <b>Loop Closure</b>, and <b>Relocolization</b> in mobile monocular camera apps. I aim to further apply what I've researched by continuing to develop an android AR object placement app using <b>Kotlin</b>, <b>C++</b>, <b>Jetpack Compose</b>, <b>Unity</b>, and <b>Android Studio</b>
+I've recently developed a high interest towards <b>Augmented Reality</b>, specifically in <b>Android apps</b>. This led me to do my <a href ="https://drive.google.com/file/d/1sNWM0ZfJXiCIEvh3i_0pwsMYuxQ7jYyk/view?usp=sharing" target="_blank">Undergraduate Research</a> focused on <b>Monocular Visual Simultaneous Localization and Mapping</b>, where I dive deep into algorithms for real-time <b>Feature Extraction</b> and <b>Mapping</b>, significantly advancing <b>Depth Perception</b>, <b>Loop Closure</b>, and <b>Relocolization</b> in mobile monocular camera apps. I aim to further apply what I've researched by continuing to develop an android AR object placement app using <b>Kotlin</b>, <b>C++</b>, <b>Jetpack Compose</b>, <b>Unity</b>, and <b>Android Studio</b>
 </p>
 <p>
 <b>Cloud Computing</b> and <b>Networks</b> has also been very a high interest in mine. I've been working with <b>Google Cloud</b> a lot, especially during my databases courses at my University, as well as developing Network Monitoring projects using <b>Prometheus & Grafana</b> to collect and query metrics on end-to-end dataflows, and using <b>Kubernetes & Docker</b> for container orchestration.

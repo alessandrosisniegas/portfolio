@@ -64,7 +64,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-      I'm from Lima, Peru and am currently an undergraduate at California State University, Chico, pursuing an B.S. in Computer Science supported by the Hispanic Scholarship Fund. I completed my high school education at Los Altos High School, near my hometown Mountain View, and have been embracing early opportunities in tech and academics ever since.</p>
+      I'm from Lima, Peru and am currently an undergraduate at California State University, Chico, pursuing an B.S. in Computer Science supported by the <a href ="https://drive.google.com/file/d/1qvz2Z4nxkE3LPxTF7aG7SqgCyXrfzMYr/view?usp=sharing" target="_blank">Hispanic Scholarship Fund.</a> I completed my high school education at Los Altos High School, near my hometown Mountain View, and have been embracing early opportunities in tech and academics ever since.</p>
     </>
   );
   // const five = (
